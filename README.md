@@ -5,4 +5,4 @@ Backend Server data
 
 FrontEnd Code
 - [@frontend-github-repository-Link](https://github.com/REFATBHUYAN/Internshala-assignment-frontend)
-- [@Live-Website-link](https://github.com/REFATBHUYAN/Internshala-assignment-frontend)
+- [@Live-Website-link](https://userdatafrompublicurl.netlify.app/)
